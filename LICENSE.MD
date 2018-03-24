@@ -1,4 +1,4 @@
-MIT License
+MIT License for ReduxSimpleStarter:
 
 Copyright (c) 2016 Stephen Grider
 
