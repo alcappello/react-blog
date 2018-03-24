@@ -20,8 +20,8 @@ To bind the two together, a 3rd library called `react-redux` is needed. It expos
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/alcappello/ReactBlog.git
-> cd ReactBlog
+> git clone https://github.com/alcappello/react-blog.git
+> cd react-blog
 > npm install
 > npm start
 ```
