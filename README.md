@@ -16,6 +16,9 @@ To bind the two together, a 3rd library called `react-redux` is needed. It expos
 #### Redux Form
 [Redux Form](https://redux-form.com/) is a great way to manage a form's state into Redux, and it comes with a fantastic documentation! Just like `react-redux`, it provides a bridge between React and Redux, this time with the more specific goal of supporting everything form related.
 
+#### React Router
+
+
 ## Getting Started
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
